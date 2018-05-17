@@ -1,0 +1,6 @@
+C:\Users\Hubert\Documents\SharpDevelop Projects\8914\Cezar\Cezar\obj\Debug\Cezar.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\Documents\SharpDevelop Projects\8914\Cezar\Cezar\bin\Debug\Cezar.exe.config
+C:\Users\Hubert\Documents\SharpDevelop Projects\8914\Cezar\Cezar\bin\Debug\Cezar.exe
+C:\Users\Hubert\Documents\SharpDevelop Projects\8914\Cezar\Cezar\bin\Debug\Cezar.pdb
+C:\Users\Hubert\Documents\SharpDevelop Projects\8914\Cezar\Cezar\obj\Debug\Cezar.exe
+C:\Users\Hubert\Documents\SharpDevelop Projects\8914\Cezar\Cezar\obj\Debug\Cezar.pdb
